@@ -24,7 +24,7 @@ function oscCluster(baseFreq, totalOscs, freqSeparation, duration, callback) {
 	}
 }
 
-OscillatorNode.prototype.waveTypes = {
+OscillatorNode.prototype.WaveTypes = {
 	0: 'sine',
 	1: 'square',
 	2: 'sawtooth',
